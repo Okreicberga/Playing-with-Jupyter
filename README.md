@@ -4,3 +4,7 @@
 
 This repository contains an overview of the numpy.random package in a Jupyter notebook. 
 
+## 
+Yoy can  view the notebook at the following URL: 
+https://nbviewer.jupyter.org/github/Okreicberga/Playing-with-Jupyter/blob/main/numpy-random.ipynb
+
